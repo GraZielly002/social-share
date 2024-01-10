@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.espace{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#base{
+    width: 29rem;
+    height: 16rem;
+    border-radius: 0.4375rem;
+    background: #86A789;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.titulo{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 2.5rem;
+}
+#t1{
+    color: #EBF3E8;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.50rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.subt{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 2.6rem;
+}
+#t2{
+    color: #EBF3E8;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -0.75rem;
+}
+.group{
+    height: 7rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: -1rem;
+}
+#bl1{
+    width: 3.9375rem;
+    height: 3.9375rem;
+    background: #B2C8BA;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+    border-radius: 50%;
+}
+#bl2{
+    width: 3.9375rem;
+    height: 3.9375rem;
+    background: #B2C8BA;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+    border-radius: 50%;
+}
+#bl3{
+    width: 3.9375rem;
+    height: 3.9375rem;
+    background: #B2C8BA;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+    border-radius: 50%;
+}
+#bl4{
+    width: 3.9375rem;
+    height: 3.9375rem;
+    background: #B2C8BA;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+    border-radius: 50%;
+}
