@@ -1,2 +1,1 @@
-# social-share
-Em desenvolvimento 
+# social-share 
